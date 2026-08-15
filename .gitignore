@@ -1,0 +1,15 @@
+# Environment variables / secrets
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw downloaded datasets
+data/raw/
+
+# Local processed/generated data
+data/processed/
